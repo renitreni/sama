@@ -11,7 +11,6 @@
         </div>
         <div class="site-mobile-menu-body"></div>
     </div>
-
     @include('layouts.partials.header-menu')
 
     <div class="ftco-blocks-cover-1">
