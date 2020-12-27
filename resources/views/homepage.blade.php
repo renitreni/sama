@@ -114,11 +114,16 @@
                     <ul class="list-unstyled footer-link">
                         <li class="d-block mb-3">
                             <span class="d-block text-black">Address:</span>
-                            <span>Al Imam Abdullah Ibn Saud Ibn Abdul Aziz Rd, Ishbiliyah, Riyadh 13225, Saudi Arabia</span></li>
-                        <li class="d-block mb-3"><span
-                                class="d-block text-black">Cellphone:</span><span>0552966662 <br> 00966552966662</span></li>
-                        <li class="d-block mb-3"><span
-                                class="d-block text-black">Land-line:</span><span>011499444499 <br> 0114466661</span></li>
+                            <span>Coming Soon.</span>
+                        </li>
+                        <li class="d-block mb-3">
+                            <span class="d-block text-black">Cellphone:</span>
+                            <span>Coming Soon.</span>
+                        </li>
+                        <li class="d-block mb-3">
+                            <span class="d-block text-black">Land-line:</span>
+                            <span>Coming Soon.</span>
+                        </li>
                     </ul>
                 </div>
             </div>
